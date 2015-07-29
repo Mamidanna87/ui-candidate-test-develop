@@ -232,7 +232,7 @@
         $('.link');
         $('[href="#"]');
         $('#fizz > *');
-        $('#foo *:not(div)');
+        $('#foo *:not(div)');  
      }
 
      // Programatically create an array with 5 items.  Create a list item for each item in the array
